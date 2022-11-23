@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="NetworkingCoursework">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetworkingCoursework</output-path>
+    <root id="root">
+      <element id="archive" name="networkCourse.jar" />
+    </root>
+  </artifact>
+</component>
